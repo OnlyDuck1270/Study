@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "762d78717162b900",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ec8fc881720077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c2dc09cffe7a135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financing & Investing/01 - Nhập môn về tài chính và đầu tư.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Nhập môn về tài chính và đầu tư"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94f3f2d29898cedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5da166cb431a6ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f25ba1818d08d3e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27ae0e0d6d3b79ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0876e632e163819a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9dbf93219947a7d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb23a8c635c234a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8343a6575a0b156",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/19th August 2026.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "14dcf9101e9c46f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/19th August 2026.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "05044fead77a0369",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "715c31b141cd07ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3f71ff1bdffb7f5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/19th August 2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9c2dc09cffe7a135",
+  "lastOpenFiles": [
+    "Printing & Designing/02 - Kiến thức bình bài.md",
+    "Printing & Designing/01 - Quy Trình Làm Việc Của Công Ty.md",
+    "Untitled.md",
+    "Financing & Investing/01 - Nhập môn về tài chính và đầu tư.md",
+    "Financing & Investing",
+    "Messages from my mom/Gui Bon.pdf",
+    "Obsidian Material/01 - Obsidian nhập môn.md",
+    "Diary/19th August 2026.md",
+    "Diary",
+    "Messages from my mom/First Letter From Mom.md",
+    "Gửi Bon.md",
+    "Gui Bon 1.pdf",
+    "Obsidian Material/First day using Obsidian (19th Aug 2026).md",
+    "Messages from my mom",
+    "Printing & Designing",
+    "Obsidian Material",
+    "#Obsidian help.md",
+    "Designing/Untitled",
+    "Printing & Designing",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
